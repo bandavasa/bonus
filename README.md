@@ -4,7 +4,6 @@ public class Main {
         int status = 100;
         int adding = 1100;
         int bonus = 0;
-        int x = 1;
         if (adding > 1000) {
             bonus = adding / 100;
         }
